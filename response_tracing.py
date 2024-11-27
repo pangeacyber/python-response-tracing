@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-import sys
-
 import click
 from dotenv import load_dotenv
 from openai import OpenAI
